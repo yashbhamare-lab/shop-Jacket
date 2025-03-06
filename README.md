@@ -7,6 +7,7 @@ Multiple Pockets: Utility pockets for tools, pens, and notebooks
 Custom Fit: Adjustable cuffs and waist for comfort
 Protective Design: Resistant to sparks, dust, and minor abrasions
 Embroidery/Branding: Custom logos and name tags
+
 📌 Project Goals
 Design & Patterns: Create and share open-source sewing patterns
 Material Selection: Test and recommend suitable fabrics and hardware
